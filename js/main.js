@@ -1134,7 +1134,16 @@
             return Object(i.jsxs)(Qe, {
                 show: e,
                 className: "about-container",
-                children: [Object(i.jsx)(Ce, {}), Object(i.jsxs)("span", {
+                children: [
+                    Object(i.jsxs)("span", {
+                    style: {
+                        marginBottom: "4px"
+                    },
+                    children: [Object(i.jsx)("span", {
+                        className: "red",
+                        children: "61N!"
+                    })]
+                }), Object(i.jsx)(Ce, {}), Object(i.jsxs)("span", {
                     style: {
                         marginBottom: "4px"
                     },
