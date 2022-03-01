@@ -1492,7 +1492,7 @@
                 id: "horizontal",
                 children: [n && Object(i.jsx)(J, {
                     className: "hide-small-screen",
-                    tooltip: "Xem toàn màn hình",
+                    tooltip: "Fullscreen",
                     icon: t.active ? "fullscreenExit" : "fullscreenEnter",
                     onClick: function() {
                         return t.active ? t.exit() : t.enter()
