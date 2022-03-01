@@ -1,4 +1,8 @@
 # Lofi-Coffee
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://opensource.org/licenses/GPL-3.0)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/vietrux/Point-System-Ver-1.4 )
+
 Lofi music streams for studying, working, and relaxing.
 ## Feature summary
 - Lofi music streams 24/24
