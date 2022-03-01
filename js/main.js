@@ -301,7 +301,7 @@
                     style: {
                         display: "inline"
                     },
-                    children: ["nhấn để thay đổi >", " "]
+                    children: ["click to change >", " "]
                 }), j.name]
             });
             return Object(i.jsxs)("div", {
