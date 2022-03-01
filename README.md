@@ -5,7 +5,7 @@
 
 Lofi music streams for studying, working, and relaxing.
 
-# Note!
+# Notice!
 - This is not my project, this project owner by [@maridivi89](https://twitter.com/maridivi89) and [@linux90](https://twitter.com/linuz90).
 - I stolen this only for my test and above all, my sincere apologies and thanks to the two authors for this amazing project!
 
