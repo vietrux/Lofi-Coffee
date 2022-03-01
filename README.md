@@ -4,6 +4,11 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/vietrux/Point-System-Ver-1.4 )
 
 Lofi music streams for studying, working, and relaxing.
+
+# Node!
+- This is not my project, this project owner by [@maridivi89](https://twitter.com/maridivi89) and [@linux90](https://twitter.com/linuz90).
+- I stolen this only for my test and above all, my sincere apologies and thanks to the two authors for this amazing project!
+
 ## Feature summary
 - Lofi music streams 24/24
 - Pomodoro Timer
