@@ -1019,8 +1019,7 @@
                 showVideo: "Show original video",
                 lowPowerMode: "Low power mode",
                 closeThis: "Close",
-                
-                : "Github",
+                gitHub: "Github",
                 arrows: "Arrows",
                 spacebar: "Spacebar",
             }
