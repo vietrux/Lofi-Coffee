@@ -1019,7 +1019,8 @@
                 showVideo: "Show original video",
                 lowPowerMode: "Low power mode",
                 closeThis: "Close",
-                gitHub: "Github",
+                
+                : "Github",
                 arrows: "Arrows",
                 spacebar: "Spacebar",
             }
@@ -1184,6 +1185,7 @@
                     }), " ", Ve.closeThis]
                 }), Object(i.jsx)(Je, {}), Object(i.jsx)("a", {
                     href: "https://github.com/vietrux/Lofi-Coffee",
+                    target: "_blank",
                     children: Object(i.jsx)(J, {
                         text: Ve.gitHub
                     })
