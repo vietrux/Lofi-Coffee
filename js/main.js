@@ -87,18 +87,6 @@
             id: "-5KAN9_CzSA",
             name: "coffee shop radio // 24/7 lofi hip-hop beats"
         }, {
-            id: "EWWVb2UnsiY",
-            name: "Lofi Space Station \ud83d\ude80 Aesthetic Lofi Beats to Chill / Study to \ud83c\udf0c Lofi Radio 24/7"
-        }, {
-            id: "Qt0-9mO-ZXY",
-            name: "Space Lofi Hip Hop Radio 24/7 \ud83d\ude80 Chill Lofi Beats To Study, Lofi Sleep Music \ud83d\ude80 No Copyright Lofi"
-        }, {
-            id: "gP6NUGr5onQ",
-            name: "Tokyo Lofi Hip Hop 24/7 \ud83c\udfef Japanese Lofi Playlist 2021 \ud83c\udfef No Copyright Lofi & Chillhop Beats"
-        }, {
-            id: "r1GJeu7S_SY",
-            name: "Japanese Lofi Radio 24/7 \ud83d\udd34The Japanese Garden \ud83d\udd34 No Copyright Lofi Hip Hop Beats To Study/Relax To"
-        }, {
             id: "l7TxwBhtTUY",
             name: "lofi hip hop radio - sad & sleepy beats"
         }, {
