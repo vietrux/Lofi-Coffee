@@ -14,7 +14,7 @@ Lofi music streams for studying, working, and relaxing.
 - Pomodoro Timer
 
 ## Demo
-LINK: [https://lofi.trug.cf](https://lofi.trug.cf)
+LINK: die (xịt rùi, thông cảm)
 
 ## Author 
 Thank you [@maridivi89](https://twitter.com/maridivi89) and [@linux90](https://twitter.com/linuz90) for this work!
