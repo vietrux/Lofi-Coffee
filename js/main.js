@@ -231,7 +231,7 @@
           , K = n(88)
           , q = n(87);
         function _(e) {
-            return "https://dc85enhu9zukf.cloudfront.net/gifs/" + e + ".gif"
+            return "https://www.lofi.cafe/gifs/" + e + ".gif"
         }
         var $ = "ontouchend"in document;
         var ee = function(e) {
